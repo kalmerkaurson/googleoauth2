@@ -1,5 +1,5 @@
 {
-    "name": "lcmaquino/googleoauth2",
+    "name": "kalmer/googleoauth2",
     "description": "GoogleOAuth2 adds to Laravel a service provider for Google OAuth 2.0 authentication.",
     "keywords": ["oauth", "google", "laravel"],
     "license": "GPL-3.0-or-later",
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^8.2",
         "illuminate/http": "^6.0|^7.0|^8.0",
         "illuminate/support": "^6.0|^7.0|^8.0"
     },
